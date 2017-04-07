@@ -1,4 +1,4 @@
-# Word Unknown - A word game by the creator of Synonymy
+# Word Unknown - A new word game
 
 .Word Unknown takes inspiration from both hangman and mastermind to create an incredibly fun and simple word game experience. Your objective is to guess a randomly generated word in as few moves as possible using both lexical and deductive logic. Once a legal guess is made, you'll get X's and O's in response. Each X represents a correct letter in the correct position, and each O represents a correct letter in the wrong position. There are five different difficulties (word lengths) to choose from and a daily challenge for each so you can compete with friends! Best of all, the game is 100% free and open source! 
 
